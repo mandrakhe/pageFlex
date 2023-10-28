@@ -1,0 +1,21 @@
+#conocenos img[alt="uno"]{
+    position: relative;
+    width: 16rem;
+    left:10rem;
+    bottom: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0.3, 0.4);
+}
+
+#conocenos div{
+    position: relative;
+    width: 20rem;
+    height: 12rem;
+    left: 20rem;
+    bottom: 7rem;
+    background-color: white ;
+    box-shadow: 0 2px 4px rgba(0, 0, 0.3, 0.4);
+}
+#conocenos div h2,p{
+padding: 1rem;
+
+}

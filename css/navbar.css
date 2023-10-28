@@ -1,0 +1,47 @@
+
+#inicio {
+    background-image: url(../img/fondo2.jpg);
+    background-size: 100%;
+    background-position: center;
+    height: 20rem;
+    background-attachment: fixed;
+}
+#inicio ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 0 5rem;
+}
+
+#inicio ul li {
+    margin: 0 1rem;
+}
+
+#inicio ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    padding: 0 1rem;
+}
+#inicio ul li a:hover {
+    color:white;
+    background-color: black;
+    transition: 0.2s;
+    border-radius:5px;
+} 
+nav img[alt="logo"] {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 34rem;
+}
+#inicio div p,h1{
+    font-family: 'Edu TAS Beginner', cursive;
+    font-weight: 100;
+    font-style: italic;
+    color: white;
+    margin-left: 2rem;
+    position: relative;
+    top: 5rem;
+}

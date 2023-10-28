@@ -1,0 +1,29 @@
+ #productos h2 {
+    margin: 2rem;
+    text-align: center;
+}
+
+#productos .menu {
+    margin-left: 6rem;
+    width:35%; 
+    float: left;
+}
+
+.menu h3{
+    text-align: center;
+}
+.menu ul{
+    border-bottom: 4px dotted #000;
+}
+.menu ul li{
+    list-style: none;
+    margin-bottom: .5rem;     
+}
+.menu b{
+    position: relative;
+    left: 7rem;
+}
+.menu span{
+    color: rgb(116, 115, 115);
+    font-size: small;
+}
